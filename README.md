@@ -1,4 +1,3 @@
-# React-Static - Basic Template
+# xogo
 
-To use this template, run `react-static create` and use the `basic` template.
-# xogo-react-static
+currently on hold tq :D
